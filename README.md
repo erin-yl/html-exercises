@@ -1,2 +1,2 @@
-# Recipes Project
-The website will consist of a main index page which will have links to a few recipes.
+# HTML Exercises
+These exercises consist of a series of HTML-related tasks intended to complement the HTML content on The Odin Project (TOP).
